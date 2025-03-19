@@ -9,3 +9,6 @@ def nova_funkcija():
 
 def nova_metoda():
     return "Ovo je nova metoda 2."
+    
+def nova_metoda():
+    return "Ovo je nova metoda 2."
